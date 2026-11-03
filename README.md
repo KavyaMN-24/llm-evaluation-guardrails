@@ -27,7 +27,7 @@ It is designed to run locally without paid API services.
 
 ### Evaluation Results
 
-![Detailed Evaluation Results](docs/images/streamlit-dashboard1.png
+![Detailed Evaluation Results](docs/images/streamlit-dashboard1.png)
 
 ## Architecture
 
